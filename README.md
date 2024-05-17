@@ -26,14 +26,10 @@ The PolyPredictive Health Analytics System is a comprehensive tool designed to p
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/polypredictive-health-analytics.git
-   cd polypredictive-health-analytics
+   git clone https://github.com/18Aswin/Polypredictive-Health-Analytics-System.git
    ```
 
 2. **Install Dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 3. **Ensure your .sav files are in the models directory**
    Place all your pre-trained model files (.sav) in the `models` directory.
