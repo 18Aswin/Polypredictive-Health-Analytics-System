@@ -88,5 +88,3 @@ Thank you to all the contributors and the open-source community for their invalu
 Polypredictive Health Analytics System is developed and maintained by Aswin A Nair. Feel free to reach out with any questions or feedback.
 
 ---
-
-Feel free to customize the `Polypredictive_Health_Analytics_System.py` and README as per your specific needs and the requirements of your models.
