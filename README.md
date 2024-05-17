@@ -70,7 +70,6 @@ polypredictive-health-analytics/
    - Enter the required input features for the selected condition.
    - Click the "Predict" button to see the prediction results.
 
-```
 
 ## Contributing
 If you wish to contribute to this project, please follow these steps:
