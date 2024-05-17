@@ -1,0 +1,1 @@
+streamlit run "C:\Users\hp\Desktop\Multiple_Disease Prediction_System\multiple_disease_prediction.py"
